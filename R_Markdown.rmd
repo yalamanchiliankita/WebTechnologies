@@ -1,2 +1,10 @@
-%Name      : Yalamanchili Ankita Srinivas
-%Neptun Id : GTX1VH
+% Name      : Yalamanchili Ankita Srinivas
+% Neptun Id : GTX1VH
+% R_Markdown Assignment
+
+Introduction
+============
+
+* Createing a Markdown file in Visual Studio Code.
+* With step by step instructions for instaling the required infrastructure.
+* To execute the make command successfully.

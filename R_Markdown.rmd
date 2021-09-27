@@ -13,8 +13,8 @@ Extensions
 ----------
 
 1. We need to install the following extensions :
-1. Markdown all in One
-2. Markdown + Math
-3. Live Server
-4. R
+    1. Markdown all in One
+    2. Markdown + Math
+    3. Live Server
+    4. R
 

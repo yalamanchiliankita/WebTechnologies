@@ -8,3 +8,13 @@ Introduction
 * Createing a Markdown file in Visual Studio Code.
 * With step by step instructions for instaling the required infrastructure.
 * To execute the make command successfully.
+
+Extensions
+----------
+
+1. We need to install the following extensions :
+1. Markdown all in One
+2. Markdown + Math
+3. Live Server
+4. R
+

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE play SYSTEM "play.dtd">
+<?xml-stylesheet href="play.css" type="text/css"?>
 <!--  // Source: http://shakespeare.mit.edu/hamlet/-->
 <play>
    <author>William Shakespeare</author>

@@ -70,3 +70,12 @@ act{
 author{
     margin-bottom: 1em;
 }
+
+line:hover {
+    background-color: blue;
+    color: white;
+}
+
+line:active{
+    font-weight: bold;
+}

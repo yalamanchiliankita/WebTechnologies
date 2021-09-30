@@ -1,7 +1,72 @@
 * {
-    border: thin solid red;
+    display: block;
+    /*border: thin solid red;*/
+}
+
+line > stagedir{
+    display: inline;
 }
 
 play{
     background-color: aliceblue;
+    padding: 1em;
+}
+
+author, title{
+    font-variant: small-caps;
+    text-align: center;
+}
+
+author, act > title{
+    font-size: x-large;
+}
+
+play > title{
+    font-size: xx-large;
+}
+
+scene > title{
+    font-size: large;
+    padding: 1em;
+    border: thin solid red;
+    margin-top: 1em;
+}
+
+author, play > title{
+    letter-spacing: 0.25em;
+}
+
+speaker{
+    font-weight: bold;
+}
+
+stagedir{
+    color: grey;
+    font-style: italic;
+}
+
+stage::before{
+    content: "(";
+}
+
+stagedir::after{
+    content: ")";
+}
+
+line, speech > stagedir{
+    padding-left: 1em;
+}
+
+speech, scene > stagedir{
+    margin-top: 1em;
+}
+
+act{
+    padding: 1em;
+    margin-top: 1em;
+    border-top: medium solid black;
+}
+
+author{
+    margin-bottom: 1em;
 }

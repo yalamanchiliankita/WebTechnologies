@@ -1,1 +1,10 @@
+<!ELEMENT file EMPTY>
 
+<!ATTLIST file 
+    name CDATA #REQUIRED
+    size CDATA #Requiresd>
+
+<!ELEMENT directory (directory | file)*>
+
+<!ATTLIST directory 
+    name CADATA #REQUIRED>
